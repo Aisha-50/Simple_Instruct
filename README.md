@@ -1,2 +1,2 @@
-# Nysc-bevy
-Beginning with replit
+# simple_instruction
+combining variable, function and conditional statements
